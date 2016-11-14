@@ -1,0 +1,22 @@
+//Descrizione Bot:
+Visualizza i livelli idrometrici dei fiumi della regione misurati attraverso le stazioni idrometriche della rete Arpav.
+
+//About Bot:
+Visualizza i livelli idrometrici dei fiumi della regione misurati attraverso le stazioni idrometriche della rete Arpav.
+
+//Ordine alfabetico:
+fiumi - Mostra i fiumi aventi delle stazioni idrometriche.
+help - Come usare il bot.
+iscrizioni - Mostra le stazioni a qui sei iscritto.
+nonseguire - Disiscriversi dalle notifiche di una stazione.
+nonseguirenessuno - Disiscriversi da tutte le stazioni.
+posizione - Mostra la tua posizione.
+segui - Iscriversi alle notifiche di una stazione.
+seguikm - Iscriversi alle stazioni nel raggio indicato.
+start - Mostra il messaggio introduttivo.
+stazione - Mostra le informazioni sulla stazione.
+stazioni - Mostra l'elenco di tutte le stazioni.
+stazionicriticitadefinita - Mostra le stazioni con il livello di criticità definito.
+stazionifiume - Mostra le stazioni del fiume indicato.
+stazionikm - Mostra le stazioni nel raggio indicato.
+stop - Cancella la posizione e disiscrive dalle notifiche.

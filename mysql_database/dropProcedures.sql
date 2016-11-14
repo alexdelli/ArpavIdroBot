@@ -1,0 +1,10 @@
+DROP PROCEDURE IF EXISTS `p_deleteUser`;
+DROP PROCEDURE IF EXISTS `p_getLocation`;
+DROP PROCEDURE IF EXISTS `p_insertLocation`;
+DROP PROCEDURE IF EXISTS `p_getStationSubscribersChats`;
+DROP PROCEDURE IF EXISTS `p_getLastCriticalityState`;
+DROP PROCEDURE IF EXISTS `p_setLastCriticalityState`;
+DROP PROCEDURE IF EXISTS `p_getRegistrations`;
+DROP PROCEDURE IF EXISTS `p_removeAllRegistrations`;
+DROP PROCEDURE IF EXISTS `p_removeRegistration`;
+DROP PROCEDURE IF EXISTS `p_insertRegistration`;
